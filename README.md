@@ -1,1 +1,1 @@
-# cronos
+![alt tag](https://travis-ci.org/zakshya/cronos.svg?branch=master)
