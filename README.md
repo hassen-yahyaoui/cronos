@@ -1,1 +1,1 @@
-![alt tag](https://travis-ci.org/zakshya/cronos.svg?branch=master)
+[![Build status](https://travis-ci.org/zakshya/cronos.svg?branch=master)](https://travis-ci.org/zakshya/cronos) [![Quality Gate](https://sonarqube.com/api/badges/gate?key=CRONOS)](https://sonarqube.com/dashboard/index/CRONOS)
