@@ -11,7 +11,7 @@
     <modules>
         <module>cronos-rest</module>
         <module>cronos-core</module>
-        <module>Initial-load</module>
+        <module>cronos-boot</module>
     </modules>
 
 </project>
